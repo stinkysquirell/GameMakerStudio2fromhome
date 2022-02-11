@@ -1,1 +1,1 @@
-draw_sprite_ext(
+//draw_sprite_ext(
